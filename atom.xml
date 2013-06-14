@@ -4,7 +4,7 @@
   <title><![CDATA[aoofey's Blog]]></title>
   <link href="http://yiqilele.com/atom.xml" rel="self"/>
   <link href="http://yiqilele.com/"/>
-  <updated>2013-06-14T09:45:15+08:00</updated>
+  <updated>2013-06-14T10:42:47+08:00</updated>
   <id>http://yiqilele.com/</id>
   <author>
     <name><![CDATA[aoofey]]></name>
@@ -18,7 +18,12 @@
     <link href="http://yiqilele.com/blog/2013/06/13/hello-github-pages/"/>
     <updated>2013-06-13T22:08:00+08:00</updated>
     <id>http://yiqilele.com/blog/2013/06/13/hello-github-pages</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>折腾了一晚上，终于在github上整了个blog。<br/>
+挺方便的，不需要买虚拟主机，就可以有一个自己域名的博客。<br/>
+博客适合记录一些深度思考的东西。<br/>
+转一个iheima的文章<a href="http://www.iheima.com/archives/33756.html">创业失败只有一个原因-懒</a> <br/>
+我现在是肢体勤奋，思维懒。 <br/>
+工欲善其事，必先利其器。先把工具搭起来，再来治治我的懒。</p>
 ]]></content>
   </entry>
   
