@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-06-14T08:56:00+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[aoofey's Blog]]></title>
+  <link href="http://yiqilele.com/atom.xml" rel="self"/>
+  <link href="http://yiqilele.com/"/>
+  <updated>2013-06-14T09:18:24+08:00</updated>
+  <id>http://yiqilele.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[aoofey]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[hello github pages]]></title>
-    <link href="http://yoursite.com/blog/2013/06/13/hello-github-pages/"/>
+    <link href="http://yiqilele.com/blog/2013/06/13/hello-github-pages/"/>
     <updated>2013-06-13T22:08:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/06/13/hello-github-pages</id>
+    <id>http://yiqilele.com/blog/2013/06/13/hello-github-pages</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

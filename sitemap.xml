@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/2013/06/13/hello-github-pages/</loc>
+        <loc>http://yiqilele.com/blog/2013/06/13/hello-github-pages/</loc>
         <lastmod>2013-06-13T22:08:02+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
+        <loc>http://yiqilele.com/blog/archives/</loc>
         <lastmod>2013-06-13T22:08:02+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
+        <loc>http://yiqilele.com/</loc>
         <lastmod>2013-06-13T22:08:02+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/robots.txt</loc>
+        <loc>http://yiqilele.com/robots.txt</loc>
         <lastmod>2013-06-13T22:07:02+08:00</lastmod>
     </url>
 </urlset>
